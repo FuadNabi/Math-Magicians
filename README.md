@@ -100,19 +100,19 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author 1**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
 
-👤 **Author2**
+👤 **Author 2**
 
 - GitHub: [Mudasiri](https://github.com/mudasiri)
 - Twitter: [MudasirIssah](https://twitter.com/MudasirIssah)
 - LinkedIn: [MudasirIssah](https://www.linkedin.com/in/MudasirIssah/)
 
-👤 **Author3**
+👤 **Author 3**
 
 - GitHub: [Mudasiri](https://github.com/atatm)
 - Twitter: [MudasirIssah](https://twitter.com/@alelign_ayana)
